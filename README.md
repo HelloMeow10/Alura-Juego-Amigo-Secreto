@@ -37,18 +37,16 @@ No se requieren instalaciones adicionales.
 
 ## Capturas de pantalla 📸
 
-*(Opcional: Aquí puedes agregar capturas de pantalla del juego en funcionamiento.)*
+### Pantalla inicial
+![Pantalla inicial](assets/screenshot1.png)
 
-## Próximas mejoras 🚀
+### Lista de amigos
+![Lista de amigos](assets/screenshot2.png)
 
-- Añadir validación para nombres duplicados.
-- Implementar opción para reiniciar la lista.
-- Traducir la interfaz a otros idiomas.
+### Resultado del sorteo
+![Resultado del sorteo](assets/screenshot3.png)
+
 
 ## Contribución 🤝
 
 ¡Toda sugerencia o mejora es bienvenida! Siéntete libre de abrir un **issue** o enviar un **pull request**.
-
-## Licencia 📜
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
